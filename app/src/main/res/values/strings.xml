@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">I Am Poor</string>
     <string name="title">I am <b>poor</b></string>
-    <string name="imgDesc">Coal</string>
+    <string name="ImgDesc">Coal</string>
 </resources>
